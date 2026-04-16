@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://wine.totgoose.ru/sitemap.xml
+Sitemap: https://menu.totgoose.ru/sitemap.xml
